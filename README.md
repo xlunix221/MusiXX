@@ -1,6 +1,6 @@
 # 🎧 MusiXX - Twój Osobisty Odtwarzacz Muzyki
 
-MusiXX to nowoczesny, lekki i napisany w Pythonie odtwarzacz muzyczny z eleganckim interfejsem graficznym. Aplikacja pozwala na bezproblemowe wyszukiwanie i odtwarzanie muzyki, zarządzanie własnymi playlistami oraz posiada inteligentny system Autoplay.
+MusiXX to nowoczesny, Darmowy, lekki i napisany w Pythonie odtwarzacz muzyczny z eleganckim interfejsem graficznym. Aplikacja pozwala na bezproblemowe wyszukiwanie i odtwarzanie muzyki, zarządzanie własnymi playlistami oraz posiada inteligentny system Autoplay.
 
 <img width="2035" height="1323" alt="image" src="https://github.com/user-attachments/assets/e9b2709e-2176-4fa3-9a83-c1d32d92a8a4" />
 
