@@ -2,7 +2,7 @@
 
 MusiXX to nowoczesny, lekki i napisany w Pythonie odtwarzacz muzyczny z eleganckim interfejsem graficznym. Aplikacja pozwala na bezproblemowe wyszukiwanie i odtwarzanie muzyki, zarządzanie własnymi playlistami oraz posiada inteligentny system Autoplay.
 
-![Główne okno aplikacji](<img width="3840" height="2109" alt="image" src="https://github.com/user-attachments/assets/ce593325-b7c6-4cae-bf21-9328a8feb9e9" />
+![Główne okno aplikacji](<img width="2035" height="1323" alt="image" src="https://github.com/user-attachments/assets/e9b2709e-2176-4fa3-9a83-c1d32d92a8a4" />
 )
 
 ## ✨ Główne funkcje
