@@ -22,4 +22,4 @@ Pobranie z Releases (http://github.com/xlunix221/MusiXX/releases/latest)
 (Jeśli masz dobrego antywirusa to w aktualnej wersji aplikacji jej nie odpalisz ponieważ używa ona pobierania plików z githuba i do pobierania aktualizacji pliku .bat)
 
 ### 📝Notatki
-Aplikacja jest portable!
+Aplikacja jest portable! (Z pobranych wrzuć na pulpit odpal i słuchaj muzyki bez przerwy ciesząc sie brakiem reklam!)
