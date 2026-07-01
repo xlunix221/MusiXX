@@ -13,6 +13,7 @@ MusiXX to nowoczesny, Darmowy, lekki i napisany w Pythonie odtwarzacz muzyczny z
 * **Nowoczesny interfejs (UI):** Ciemny, minimalistyczny wygląd stworzony w `customtkinter`, z automatycznie pobieranymi okładkami albumów.
 * **Integracja z Discord (RPC):** Pochwal się znajomym na Discordzie, czego aktualnie słuchasz. <img width="442" height="152" alt="image" src="https://github.com/user-attachments/assets/22bbfd44-58a6-4c36-aab3-253283bc02ca" />
 * **Auto-Updater:** Aplikacja sama sprawdza dostępność nowych aktualizacji na GitHubie i pozwala na ich pobranie jednym kliknięciem.
+* **Integracja z Windows Media Player ** Możliwość sterowania muzyka na poziomie windowsa!
 
 ## 🛠️ Wymagania
 Windows 10/11
