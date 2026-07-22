@@ -25,3 +25,7 @@ Pobranie z Releases [Kliknij tutaj aby pobrać!](http://github.com/xlunix221/Mus
 
 ### 📝Notatki
 Aplikacja jest portable! (Z pobranych wrzuć na pulpit odpal i słuchaj muzyki bez przerwy, ciesząc sie brakiem reklam!)
+
+## ⚖️ Licencja i Odpowiedzialność
+
+Oprogramowanie jest dostarczane "TAK JAK JEST" (ang. "AS IS"), bez żadnych gwarancji. Projekt powstał do celów hobbystycznych. Autor nie odpowiada za jakiekolwiek szkody czy konsekwencje prawne wynikające z korzystania z tego narzędzia. Program działa jako niezależny, lokalny klient i nie komunikuje się z infrastrukturą autora (brak zewnętrznych baz danych).
