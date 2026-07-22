@@ -28,4 +28,10 @@ Aplikacja jest portable! (Z pobranych wrzuć na pulpit odpal i słuchaj muzyki b
 
 ## ⚖️ Licencja i Odpowiedzialność
 
-Oprogramowanie jest dostarczane "TAK JAK JEST" (ang. "AS IS"), bez żadnych gwarancji. Projekt powstał do celów hobbystycznych. Autor nie odpowiada za jakiekolwiek szkody czy konsekwencje prawne wynikające z korzystania z tego narzędzia. Program działa jako niezależny, lokalny klient i nie komunikuje się z infrastrukturą autora (brak zewnętrznych baz danych).
+**Copyright (c) 2026 (xlunix221). Wszelkie prawa zastrzeżone.**
+
+Oprogramowanie jest dostarczane "TAK JAK JEST" (ang. "AS IS"), bez żadnych gwarancji. Projekt powstał do celów hobbystycznych i jest przeznaczony **wyłącznie do użytku osobistego**. Autor nie odpowiada za jakiekolwiek szkody czy konsekwencje prawne wynikające z korzystania z tego narzędzia (w tym za ewentualne naruszenia regulaminów serwisów trzecich). 
+
+Program działa jako niezależny, lokalny klient. Aplikacja wykonuje się w 100% na komputerze użytkownika i nie komunikuje się z prywatną infrastrukturą autora (brak zewnętrznych baz danych czy zbierania telemetrii).
+
+Aplikacja jest darmowa (freeware), jednak kod źródłowy nie jest otwarty (to nie jest Open Source). Kopiowanie, modyfikowanie, dystrybucja lub wykorzystanie komercyjne tego oprogramowania bez wyraźnej zgody autora jest zabronione.
