@@ -1,1 +1,67 @@
-.
+Witaj w MusiXX! 🎉 Oto historia aktualizacji:
+
+Wersja 1.9.4
+• Dodano przycisk zapisywania obecnie odtwarzanej piosenki.
+• Poprawiono animację prawego panelu z kolejką.
+• Naprawiono Discord Rich Presence.
+
+Wersja 1.9.3
+• BETA (Mogą by wystąpić błędy)
+• Zaktualizowano cały intefejs.
+• Dodano gradient dla lepszej stylistyki.
+• Playlisty są wyświetlane w ekranie głównym
+
+Wersja 1.9.2
+• Naprawiono problem z odtwarzaniem kolejki.
+• Zaokrąglone okładki albumów.
+• Zwiększona stabilność interfejsu przy odtwarzaniu w tle.
+
+Wersja 1.9.1
+• Pełna naprawa przełączania piosenek w kolejce.
+• Naprawa integracji paska multimediów w systemie Windows.
+
+Wersja 1.9.0
+• Przeniesiono aplikacje do biblioteki PySide6, co poprawia stabilność i wydajność.
+• Przeniesiono folder ustawień i historii do podfolderu "misc".
+• Dodano automatyczną migrację ustawień i historii z poprzednich wersji.
+• Starsze wersje nie są już kompatybilne z nowymi folderami.
+• (Mogą zdarzać się błędy z tą aktualizacją lecz będziemy poprawiać!)
+
+Wersja 1.8.3
+• Dodano przycisk do czyszczenia całej kolejki.
+• Dodano przycisk do mieszania utworów w kolejce.
+
+Wersja 1.8.2
+• Naprawiono błąd "you must connect you client before"
+
+Wersja 1.8.1
+• Naprawiono błąd związany z przeciąganiem utworu w kolejce. (dalej sie troche buguje)
+• Dodano płynniejsze scrolowanie po listach.
+• Dodano płynne pojawianie się okienek modalnych.
+• Dodano w Folderze "AppData/MusiXX/playlists" Playlisty aby był lepszy dostęp do nich
+• Wszystkie pliki aplikacji są teraz posortowane w folderze "AppData/MusiXX"
+
+Wersja 1.8.0
+• Aplikacja od teraz sprawdza co 2 minuty czy jest dostępna aktualizacja
+• Całkowita przebudowa UI, w tym nowy wygląd przycisków i kontrolek
+• Naprawiono błąd z wyświetlaniem niektórych tytułów w historii
+• Dodano możliwość zmieniania kolejności w kolejce poprzez przeciąganie i upuszczanie
+• Dodano skróty klawiszowe (Jak narazie działające tylko podczas głównego okna aplikacji)
+• Dodano integracje z Windows Media Player (WMC) - sterowanie odtwarzaniem z poziomu systemu
+
+Wersja 1.7.5
+• Na ekranie startowym wyświetlane są teraz ostatnio słuchane utwory.
+• W ustawieniach dodano możliwość odblokowania limitu głośności (150%).
+• Popupy po prawo na górze znikają po 10 sekundach.
+
+Wersja 1.7.3
+• Dodano ustawienia jakości dźwięku.
+• Dodano Automatycznie usuwanie plików tymczasowych po ponownym otwarciu aplikacji!
+• Poprawki stabilności i wydajności.
+
+Wersja 1.7.0
+• Dodano pokazywanie piosenek jako nazwa aplikacji!
+• Jest dodatkowych 5 piosenek w kolejce autoplay.
+• Dodano historię odtwarzania, aby łatwo wrócić do poprzednich utworów.
+• Dodano możliwość wpisywania procentu głośności w polu obok suwaka.
+• Poprawiono błędy i stabilność odtwarzacza.
