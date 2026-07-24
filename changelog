@@ -1,5 +1,9 @@
 Witaj w MusiXX! 🎉 Oto historia aktualizacji:
 
+Wersja 2.0.1
+• Auto start aplikacji w trayu
+• Zapisywanie okładek z historii (i automatycznie usuwanie nie potrzebnych coverartów)
+
 Wersja 2.0.0
 • Pobieranie utworów aby można było słuchać offline.
 • Poprawiono sprawdzanie czy discord jest online (od teraz sprawdza co 30 sekund).
