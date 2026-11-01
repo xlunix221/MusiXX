@@ -1,5 +1,13 @@
 Witaj w MusiXX! 🎉 Oto historia aktualizacji:
 
+Wersja 3.3.0
+• Podgląd playlist w Społeczności: kliknięcie w kartę playlisty w chmurze otwiera jej pełną zawartość z listą utworów, możliwością odsłuchania pojedynczych piosenek oraz szybkim importem do biblioteki.
+• Profile słuchaczy: nowa sekcja w Społeczności z wyszukiwarką profili, awatarami i publicznymi playlistami każdego użytkownika.
+• Rola i odznaka Beta Tester
+• Przyciski kopii i synchronizacji chmury przeniesiono do Ustawień
+• Bezpieczny reset danych i kreatora: okno potwierdzenia z opcją szybkiego backupu w chmurze, wyborem usuwanych elementów (lokalne playlisty, chmura, ustawienia, historia) i automatycznym wylogowaniem.
+• Statystyki słuchacza na profilu: łączny czas słuchania (minuty/godziny), liczba przesłuchanych piosenek oraz zestawienie Top 3 ulubionych wykonawców.
+
 Wersja 3.2.2
 • Naprawiono błędy z tekstem piosenek
 
