@@ -1,5 +1,10 @@
 Witaj w MusiXX! 🎉 Oto historia aktualizacji:
 
+Wersja 3.3.5
+• Zachowywanie autorów playlist przy kopii zapasowej w chmurze
+• Synchronizacja statystyk słuchacza w chmurze na żywo
+• Zabezpieczenie statystyk przed podrabianiem i fałszywym nabijaniem
+
 Wersja 3.3.3
 • Naprawiono kopiowanie linku udostępniania playlisty do schowka
 • Zablokowano możliwość polubienia własnych playlist w Społeczności
