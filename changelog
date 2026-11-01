@@ -1,5 +1,11 @@
 Witaj w MusiXX! 🎉 Oto historia aktualizacji:
 
+Wersja 3.3.1
+• Odłączanie i usuwanie ze Społeczności: odłączenie własnej playlisty od chmury (lub jej usunięcie) automatycznie wycofuje ją ze Społeczności.
+• Blokada duplikatów w chmurze: zabezpieczenie przed podwójnym dodaniem tej samej playlisty do Społeczności oraz blokada ponownego publikowania playlist pobranych od innych twórców.
+• Oznaczanie autora playlisty: wyświetlanie twórcy w szczegółach playlisty, na pasku bocznym i na stronie głównej z bezpośrednim podglądem jego profilu słuchacza.
+• Status w Społeczności: czytelny znacznik „W Twojej bibliotece” zapobiega wielokrotnemu pobieraniu tej samej playlisty.
+
 Wersja 3.3.0
 • Podgląd playlist w Społeczności: kliknięcie w kartę playlisty w chmurze otwiera jej pełną zawartość z listą utworów, możliwością odsłuchania pojedynczych piosenek oraz szybkim importem do biblioteki.
 • Profile słuchaczy: nowa sekcja w Społeczności z wyszukiwarką profili, awatarami i publicznymi playlistami każdego użytkownika.
