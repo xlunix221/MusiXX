@@ -1,5 +1,12 @@
 Witaj w MusiXX! 🎉 Oto historia aktualizacji:
 
+Wersja 3.2.0
+• Obowiązkowe logowanie Discord
+• Zakładka Społeczność: publiczne playlisty innych graczy, ranking Na czasie / Polubienia / Najnowsze, system serduszek i dodawanie do biblioteki jednym kliknięciem.
+• Playlisty niepubliczne i Collab: generowanie linku musixx://p/... dla znajomych oraz tryb wspólnych playlist z automatyczną synchronizacją dodawanych utworów.
+• Kopia zapasowa w chmurze (Cloud Sync): backup playlist, okładek, historii i ustawień z możliwością przywrócenia na dowolnym komputerze.
+• Naprawiono sklejanie się słów w synchronicznym tekście piosenek (karaoke).
+
 Wersja 3.1.0
 • Dodano pływający Mini Odtwarzacz z tekstem na żywo (zawsze na wierzchu, w nowym stylu Ambient Glass – liczba widocznych linijek tekstu dopasowuje się automatycznie do rozmiaru okienka po jego rozszerzeniu lub zmniejszeniu).
 • Naprawiono pauzowanie oraz podwójne przewijanie utworów z poziomu Windowsa i klawiszy multimedialnych.
