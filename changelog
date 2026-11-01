@@ -1,5 +1,13 @@
 Witaj w MusiXX! 🎉 Oto historia aktualizacji:
 
+Wersja 3.1.0
+• Dodano pływający Mini Odtwarzacz z tekstem na żywo (zawsze na wierzchu, w nowym stylu Ambient Glass – liczba widocznych linijek tekstu dopasowuje się automatycznie do rozmiaru okienka po jego rozszerzeniu lub zmniejszeniu).
+• Naprawiono pauzowanie oraz podwójne przewijanie utworów z poziomu Windowsa i klawiszy multimedialnych.
+• Górny pasek okna automatycznie dopasowuje swój kolor (jasny lub ciemny) do ustawień systemu Windows.
+• Naprawiono błąd z brakiem dźwięku przy przejściu z utworu pobranego offline na utwór online w kolejce.
+• Dodano czytelne oznaczanie niepobranych utworów offline na playliście oraz naprawiono zacinające się „Wznów pobieranie”.
+• Przebudowano powiadomienia aplikacji na nowy wygląd frontendu.
+
 Wersja 3.0.3
 • Naprawiono okładki w utworach pobranych offline – od teraz zawsze zachowują tę samą oryginalną okładkę albumu co na playliście (koniec z losowymi okładkami i surowymi miniaturkami z YouTube).
 • Dodano pełne sterowanie muzyką z poziomu systemu Windows (panel multimedialny Windows 10/11 obok paska głośności z okładką i tytułem oraz pełna obsługa klawiszy multimedialnych na klawiaturze i słuchawkach).
