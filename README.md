@@ -2,7 +2,8 @@
 
 MusiXX to nowoczesny, Darmowy, lekki i napisany w Pythonie odtwarzacz muzyczny z eleganckim interfejsem graficznym. Aplikacja pozwala na bezproblemowe wyszukiwanie i odtwarzanie muzyki, zarządzanie własnymi playlistami oraz posiada inteligentny system Autoplay.
 
-<img width="3839" height="2078" alt="image" src="https://github.com/user-attachments/assets/1552820e-eea8-4ee5-a91c-93f2688e36de" />
+<img width="3839" height="2111" alt="image" src="https://github.com/user-attachments/assets/91dbfbe7-1c4a-4751-bb03-34c51d8e9398" />
+
 
 ## ✨ Główne funkcje
 
@@ -12,8 +13,7 @@ MusiXX to nowoczesny, Darmowy, lekki i napisany w Pythonie odtwarzacz muzyczny z
 * **Wbudowana wyszukiwarka:** Szukaj muzyki po tytule, wykonawcy lub po prostu wklej link (obsługuje formaty YouTube).
 * **Zarządzanie playlistami:** Dodawaj utwory do kolejki lub zapisuj je w utworzonych przez siebie, stałych playlistach. Ustawiaj własne grafiki jako okładki dla swoich muzycznych kolekcji!
 * **Personalizacja ustawień i Skróty klawiszowe:** Wybieraj preferowaną jakość dźwięku oraz przypisuj własne skróty klawiszowe do płynnego sterowania odtwarzaczem.
-* **Nowoczesny interfejs (UI):** Ciemny, minimalistyczny wygląd stworzony w `PySide6`, z dynamicznie pobieranymi i buforowanymi okładkami albumów.
-* **Integracja z Discord (RPC):** Pochwal się znajomym na Discordzie, czego aktualnie słuchasz (system w pełni wspiera również utwory odtwarzane z dysku w trybie offline!). <br> <img width="442" height="152" alt="image" src="https://github.com/user-attachments/assets/22bbfd44-58a6-4c36-aab3-253283bc02ca" />
+* **Integracja z Discord (RPC):** Pochwal się znajomym na Discordzie, czego aktualnie słuchasz (system w pełni wspiera również utwory odtwarzane z dysku w trybie offline!). <img width="460" height="161" alt="image" src="https://github.com/user-attachments/assets/709e7498-5d6b-4c48-afaf-d66ff245bb6a" />
 * **Auto-Updater:** Aplikacja sama sprawdza dostępność nowych aktualizacji na GitHubie i pozwala na ich bezinwazyjne pobranie jednym kliknięciem.
 * **Integracja z Windows Media Player:** Możliwość natywnego sterowania muzyką na poziomie systemu Windows (obsługa klawiszy multimedialnych na klawiaturze).
 
