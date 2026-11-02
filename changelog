@@ -1,5 +1,14 @@
 Witaj w MusiXX! 🎉 Oto historia aktualizacji:
 
+Wersja 3.4.0
+• Centrum Powiadomień (ikona dzwonka w prawym górnym rogu z licznikiem nieprzeczytanych, rozwijaną listą aktywności oraz szybkim czyszczeniem)
+• Powiadomienia w czasie rzeczywistym (toasty) o dodaniu nowych piosenek przez współpracowników do wspólnych playlist
+• Współpraca w stylu Spotify (Collab):
+  - Oznaczanie autora każdego utworu na playliście (awatar Discord + nazwa użytkownika)
+  - Stos awatarów współpracowników w nagłówku playlisty z podglądem liczby dodanych utworów i odznaką Właściciela
+  - Dedykowany przycisk i okno „Zaproś do playlisty” z natychmiastowym kopiowaniem linku musixx://p/... oraz gotowego zaproszenia na Discorda
+  - Odznaka „WSPÓLNA” przy playlistach kolaboracyjnych
+
 Wersja 3.3.6
 • Naprawiono błąd zapisu kopii zapasowej w chmurze (401) i dodano auto-odświeżanie sesji
 • Automatyczna synchronizacja profilowego i nazwy z lokalnego Discorda
