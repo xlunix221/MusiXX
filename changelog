@@ -1,13 +1,81 @@
 Witaj w MusiXX! 🎉 Oto historia aktualizacji:
 
+Wersja 3.6.5
+• Nowy format Discord Rich Presence
+• Udoskonalona synchronizacja karty obecności na Discordzie
+
+Wersja 3.6.4
+• Płynne teksty piosenek w 60 FPS
+• MusiXX Remote – pełne sterowanie odtwarzaczem ze smartfona (Android / iOS) w sieci Wi-Fi bez instalowania aplikacji
+
+Wersja 3.6.3
+• Normalizacja głośności w czasie rzeczywistym
+• Ciemny motyw dla wszystkich rozwijanych list wyboru
+• Ciemny natywny selektor kolorów
+• Poprawki wizualne kontrastu w Ustawieniach
+• Menedżer Pamięci i Plików
+• Pasek podziału pamięci na pobraną muzykę offline, okładki oraz cache
+• Czyszczenie zbędnej pamięci podręcznej
+• Konfigurowalny limit pamięci podręcznej
+• Szybkie przejście do folderu plików lokalnych MusiXX
+
+Wersja 3.6.2
+• Nowy system Auto-Update z automatycznym lustrem zapasowym (Hugging Face + GitHub Mirror)
+
+Wersja 3.6.1
+• Precyzyjne dopasowanie utworów (eliminacja odpalania błędnych piosenek i teledysków)
+• Inteligentne pobieranie okładek z bazy Deezer oraz lokalnego dysku playlist
+
+Wersja 3.6.0
+• Nowy wygląd interfejsu Liquid Glass
+• Zakładka MusiXX Replay (statystyki, Muzyczne DNA, 12 osiągnięć i pobieranie plakatu PNG)
+• Profile twórców (najpopularniejsze utwory, dyskografia i radio artysty)
+• Przebudowana kolejka odtwarzania w stylu Spotify („Zagraj jako następny” i kontekst playlisty)
+• Filtrowanie wyszukiwarki (tylko oficjalne piosenki, bez zwykłych filmików)
+• Rozszerzona baza zsynchronizowanych tekstów piosenek (Karaoke)
+• Globalne skróty klawiszowe działające w grach (Alt+P, Alt+Strzałki, Alt+L, Alt+I, Alt+M)
+• Ulepszona Dynamiczna Wyspa i Mini Odtwarzacz (stałe 60 FPS w tle i wyśrodkowanie)
+• Wyłącznik czasowy (Timer snu) oraz szybkie wyszukiwanie Ctrl+K
+• Optymalizacja zużycia pamięci RAM i synchronizacji awatarów Discord
+
+Wersja 3.5.2
+• Zoptymalizowano zużycie procesora w tle oraz poprawiono stabilność okładek Discord RPC i Dynamicznej Wyspy
+
+Wersja 3.5.1
+• Naprawiono opóźnienia znajomych i wspólnego słuchania (MusiXX Jam)
+• Błyskawiczna synchronizacja w czasie rzeczywistym przez dedykowany serwer WebSocket (opóźnienie < 30 ms)
+• Natywne powiadomienia systemowe Windows (Centrum Powiadomień Windows Toast)
+• Udoskonalona Dynamiczna Wyspa: pojedyncza, płynna linijka pływającego tekstu z animacją karaoke słowo po słowie
+
+Wersja 3.5.0
+• Dynamiczna Wyspa
+• Płynny Crossfade
+• Kinetyczne Teksty z Głębią Ostrości
+• MusiXX Sing (Wyciszanie wokalu)
+• Fluid Dynamic Canvas
+• Wspólne Słuchanie na żywo w tej samej sekundzie (MusiXX Jam)
+• Nowy System Znajomych i Aktywność na żywo
+• Opcja „Ignoruj” dla niepobranych utworów offline
+• Inteligentna kolejka pobierania offline wielu playlist naraz
+• Płynny wskaźnik głośności iOS Volume HUD na Dynamicznej Wyspie
+• Ambientowa poświata okładki na Dynamicznej Wyspie
+• Wskaźnik miksowania Crossfade na osi czasu
+• Świetlna poświata 3D pod okładkami utworów
+• Kinowy tryb pełnoekranowy tekstów
+• Płynne kinowe przejścia ekranu utworu, okładek i tekstów
+• Konfiguracja liczby pobieranych utworów w kolejce (Preload)
+
+Wersja 3.4.2
+• Prywatne wspólne playlisty (Collab)
+• Ochrona praw autorskich playlist ze Społeczności
+
+Wersja 3.4.1
+• Pełne zabezpieczenie playlist ze Społeczności przed modyfikacją przez innych użytkowników
+
 Wersja 3.4.0
 • Centrum Powiadomień (ikona dzwonka w prawym górnym rogu z licznikiem nieprzeczytanych, rozwijaną listą aktywności oraz szybkim czyszczeniem)
 • Powiadomienia w czasie rzeczywistym (toasty) o dodaniu nowych piosenek przez współpracowników do wspólnych playlist
-• Współpraca w stylu Spotify (Collab):
-  - Oznaczanie autora każdego utworu na playliście (awatar Discord + nazwa użytkownika)
-  - Stos awatarów współpracowników w nagłówku playlisty z podglądem liczby dodanych utworów i odznaką Właściciela
-  - Dedykowany przycisk i okno „Zaproś do playlisty” z natychmiastowym kopiowaniem linku musixx://p/... oraz gotowego zaproszenia na Discorda
-  - Odznaka „WSPÓLNA” przy playlistach kolaboracyjnych
+• Współpraca w stylu Spotify (Collab)
 
 Wersja 3.3.6
 • Naprawiono błąd zapisu kopii zapasowej w chmurze (401) i dodano auto-odświeżanie sesji
@@ -52,7 +120,7 @@ Wersja 3.2.0
 • Naprawiono sklejanie się słów w synchronicznym tekście piosenek (karaoke).
 
 Wersja 3.1.0
-• Dodano pływający Mini Odtwarzacz z tekstem na żywo (zawsze na wierzchu, w nowym stylu Ambient Glass – liczba widocznych linijek tekstu dopasowuje się automatycznie do rozmiaru okienka po jego rozszerzeniu lub zmniejszeniu).
+• Dodano pływający Mini Odtwarzacz z tekstem na żywo
 • Naprawiono pauzowanie oraz podwójne przewijanie utworów z poziomu Windowsa i klawiszy multimedialnych.
 • Górny pasek okna automatycznie dopasowuje swój kolor (jasny lub ciemny) do ustawień systemu Windows.
 • Naprawiono błąd z brakiem dźwięku przy przejściu z utworu pobranego offline na utwór online w kolejce.
@@ -60,12 +128,12 @@ Wersja 3.1.0
 • Przebudowano powiadomienia aplikacji na nowy wygląd frontendu.
 
 Wersja 3.0.3
-• Naprawiono okładki w utworach pobranych offline – od teraz zawsze zachowują tę samą oryginalną okładkę albumu co na playliście (koniec z losowymi okładkami i surowymi miniaturkami z YouTube).
+• Naprawiono okładki w utworach pobranych offline
 • Dodano pełne sterowanie muzyką z poziomu systemu Windows (panel multimedialny Windows 10/11 obok paska głośności z okładką i tytułem oraz pełna obsługa klawiszy multimedialnych na klawiaturze i słuchawkach).
-• Dodano nowy system Discord Rich Presence ("Słucha: MusiXX") – wyświetla na profilu Discord aktualnie grany utwór, wykonawcę, okładkę albumu oraz pasek postępu czasu na żywo.
+• Dodano nowy system Discord Rich Presence ("Słucha: MusiXX")
 
 Wersja 3.0.2
-• Przebudowano system aktualizacji – dodano okno postępu z paskiem procentowym (0–100%) oraz licznikiem pobranych megabajtów (MB / MB).
+• Przebudowano system aktualizacji
 • Naprawiono błąd PyInstaller (Failed to load Python DLL _MEI\python312.dll) podczas automatycznego restartu po aktualizacji.
 
 Wersja 3.0.1
