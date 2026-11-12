@@ -20,7 +20,8 @@ MusiXX to nowoczesny, Darmowy, lekki i napisany w Pythonie odtwarzacz muzyczny z
 ## 🛠️ Wymagania
 Windows 10/11
 
-Pobranie z Releases: [Kliknij tutaj aby pobrać!](http://github.com/xlunix221/MusiXX/releases/latest)
+Pobranie z Releases: [Kliknij tutaj aby pobrać](http://github.com/xlunix221/MusiXX/releases/latest)
+Pobranie z HuggingFace: [Kliknij tutaj aby pobrać](https://huggingface.co/datasets/XluniX/MusiXX/resolve/main/MusiXX.exe)
 
 *(Jeśli masz restrykcyjnego antywirusa, może on blokować uruchomienie odtwarzacza, ponieważ aplikacja używa skryptów .bat i pobiera aktualizacje prosto z GitHuba. Wystarczy dodać program do wyjątków).*
 
