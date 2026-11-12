@@ -33,10 +33,23 @@ Aplikacja jest w 100% portable! Pobierz paczkę, wrzuć na pulpit, odpal i słuc
 
 ## ⚖️ Licencja i Odpowiedzialność
 
-**Copyright (c) 2026 (xlunix221). Wszelkie prawa zastrzeżone.**
+**Copyright © 2026 xlunix221. Wszelkie prawa zastrzeżone.**
 
-Oprogramowanie jest dostarczane "TAK JAK JEST" (ang. "AS IS"), bez żadnych gwarancji. Projekt powstał do celów hobbystycznych i jest przeznaczony **wyłącznie do użytku osobistego**. Autor nie odpowiada za jakiekolwiek szkody czy konsekwencje prawne wynikające z korzystania z tego narzędzia (w tym za ewentualne naruszenia regulaminów serwisów trzecich). 
+### 1. Zastrzeżenie prawne (Disclaimer & AS IS)
+Oprogramowanie jest dostarczane w stanie **„TAK JAK JEST”** (ang. *„AS IS”*), bez jakichkolwiek gwarancji, wyraźnych lub dorozumianych, w tym m.in. gwarancji przydatności handlowej, przydatności do określonego celu czy braku zakłóceń w działaniu. Projekt powstał w celach czysto edukacyjnych oraz hobbystycznych i jest przeznaczony **wyłącznie do prywatnego użytku osobistego**.
 
-Program działa jako niezależny, lokalny klient. Aplikacja wykonuje się w całości na komputerze użytkownika i nie komunikuje się z żadną prywatną infrastrukturą autora (brak zewnętrznych baz danych czy modułów zbierających telemetrię).
+Autor nie ponosi żadnej odpowiedzialności za jakiekolwiek bezpośrednie lub pośrednie szkody, straty, awarie sprzętu ani konsekwencje prawne wynikające z instalacji, użytkowania bądź niewłaściwego użycia tego narzędzia, w tym za ewentualne naruszenia regulaminów serwisów trzecich (*Terms of Service*). Użytkownik korzysta z oprogramowania wyłącznie na własne ryzyko i odpowiedzialność.
 
-Aplikacja jest darmowa (freeware), jednak kod źródłowy nie jest otwarty (to nie jest Open Source). Kopiowanie, modyfikowanie, dystrybucja lub wykorzystanie komercyjne tego oprogramowania bez wyraźnej zgody autora jest zabronione.
+### 2. Architektura i prywatność danych
+* **Brak telemetrii marketingowej:** Aplikacja nie zawiera żadnych modułów szpiegujących, reklamowych ani skryptów analitycznych śledzących użytkownika.
+* **Lokalne przetwarzanie multimediów:** Aplikacja działa jako lokalny klient i nie hostuje ani nie przechowuje na serwerach autora żadnych plików muzycznych czy chronionych prawem autorskim treści. Wszystkie strumienie audio, teksty piosenek i okładki są pobierane w czasie rzeczywistym bezpośrednio na komputerze użytkownika z publicznie dostępnych źródeł zewnętrznych.
+* **Synchronizacja w chmurze:** Funkcje społecznościowe (konta użytkowników, kopie zapasowe playlist, lista znajomych oraz wspólne sesje MusiXX Jam) wykorzystują zabezpieczoną bazę danych (Supabase) oraz dedykowany serwer czasu rzeczywistego wyłącznie w celu realizacji tych funkcji na życzenie użytkownika.
+
+### 3. Zewnętrzne znaki towarowe i usługi
+Wszelkie znaki towarowe, nazwy produktów, logotypy, tytuły utworów, nazwy wykonawców oraz materiały multimedialne należą do ich odpowiednich właścicieli prawnych (m.in. YouTube, Google, Spotify, Deezer, Discord). Projekt **MusiXX** nie jest w żaden sposób oficjalnie powiązany, sponsorowany ani zatwierdzony przez żadną z wymienionych marek.
+
+### 4. Prawa autorskie i warunki użytkowania (Closed Source)
+Aplikacja jest udostępniana bezpłatnie jako **Freeware o zamkniętym kodzie źródłowym (Closed Source / Proprietary)**:
+* Użytkownik otrzymuje ograniczoną, osobistą, niewyłączną i odwołalną licencję na pobieranie i uruchamianie aplikacji wyłącznie w celach niekomercyjnych.
+* Kod źródłowy aplikacji nie jest udostępniany publicznie i stanowi wyłączną własność intelektualną autora.
+* **Zabrania się:** dekompilacji, inżynierii wstecznej (*reverse engineering*), modyfikacji, redystrybucji, sprzedaży, sublicencjonowania lub jakiegokolwiek komercyjnego wykorzystywania programu bez uprzedniej, wyraźnej zgody autora wyrażonej na piśmie.
