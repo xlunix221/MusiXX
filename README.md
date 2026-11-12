@@ -13,7 +13,9 @@ MusiXX to nowoczesny, Darmowy, lekki i napisany w Pythonie odtwarzacz muzyczny z
 * **Wbudowana wyszukiwarka:** Szukaj muzyki po tytule, wykonawcy lub po prostu wklej link (obsługuje formaty YouTube).
 * **Zarządzanie playlistami:** Dodawaj utwory do kolejki lub zapisuj je w utworzonych przez siebie, stałych playlistach. Ustawiaj własne grafiki jako okładki dla swoich muzycznych kolekcji!
 * **Personalizacja ustawień i Skróty klawiszowe:** Wybieraj preferowaną jakość dźwięku oraz przypisuj własne skróty klawiszowe do płynnego sterowania odtwarzaczem.
-* **Integracja z Discord (RPC):** Pochwal się znajomym na Discordzie, czego aktualnie słuchasz (system w pełni wspiera również utwory odtwarzane z dysku w trybie offline!). <img width="460" height="161" alt="image" src="https://github.com/user-attachments/assets/709e7498-5d6b-4c48-afaf-d66ff245bb6a" />
+* **Integracja z Discord (RPC):** Pochwal się znajomym na Discordzie, czego aktualnie słuchasz (system w pełni wspiera również utwory odtwarzane z dysku w trybie offline!).
+<img width="442" height="155" alt="image" src="https://github.com/user-attachments/assets/1063f0a5-48ba-4f05-a9e9-242acc195c7f" />
+
 * **Auto-Updater:** Aplikacja sama sprawdza dostępność nowych aktualizacji na GitHubie i pozwala na ich bezinwazyjne pobranie jednym kliknięciem.
 * **Integracja z Windows Media Player:** Możliwość natywnego sterowania muzyką na poziomie systemu Windows (obsługa klawiszy multimedialnych na klawiaturze).
 
